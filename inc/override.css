@@ -1,0 +1,24 @@
+button.list-group-item-primary.active{
+  color:#555;
+  background-color:#428bca;
+}
+
+button.list-group-item-primary:hover{
+  z-index: 2;
+  color: #fff;
+  background-color: #428bca;
+  border-color: #428bca;
+}
+
+button.list-group-item-danger.active{
+  color:#555;
+  background-color:#a94442;
+}
+
+button.list-group-item-danger:hover{
+  z-index: 2;
+  color: #fff;
+  background-color: #a94442;
+  border-color: #a94442;
+}
+

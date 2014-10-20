@@ -1,0 +1,117 @@
+/*************************************
+			Tag Styles
+*************************************/
+
+body {
+	background-color: #EAEAEA;
+}
+
+/*************************************
+			Id Styles
+*************************************/
+
+.header {
+	position: relative;
+	padding: 30px 15px;
+	color:#1cceac;
+	background-color:#16a085;
+}
+
+#footer {
+	margin: 0 auto;
+}
+
+/*************************************
+			Banner Styles
+*************************************/
+
+.bs-docs-header {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	font-size:24px;
+	text-align: center;
+	margin-bottom: 40px;
+
+}
+
+.bs-docs-header h1 {
+	margin-top: 0;
+	color: #fff;
+}
+
+.bs-docs-masthead, .bs-docs {
+	position: relative;
+	padding: 30px 15px;
+	color: #cdbfe3;
+}
+
+/*************************************
+			Navbar Styles
+*************************************/
+
+.navbar {
+	margin-bottom: 0;
+}
+
+.navbar-default {
+	background-color:#EAEAEA;
+	border-color:#EAEAEA;
+}
+
+.navbar-default .navbar-brand {
+	color: #16a085;
+}
+
+.navbar a:hover{
+	background-color:#fff !important;
+}
+
+.navbar-nav > li > a.active{
+	color:#16a085;
+}
+
+/*************************************
+			Alert Styles
+*************************************/
+.alert{
+	margin: 0 auto;
+}
+
+/*************************************
+			Form Styles
+*************************************/
+
+.clear{
+	background: rgba(0, 0, 0, 0.5) !important;
+}
+
+h2.form-heading {
+	margin-left:1em;
+}
+
+/*************************************
+			Table Styles
+*************************************/
+
+.table {
+}
+
+/*************************************
+			Other Styles
+*************************************/
+.component {
+	background:#fff;
+}
+
+.panel {
+	background:#e0e0e0;
+}
+
+i.fa.fa-plus {
+	color:#009900;
+}
+
+i.fa-times-circle-o {
+	color:#990000;
+	margin-left: 5px;
+}
